@@ -5,3 +5,4 @@ This repository is for small projects, usually the implementation of algorithms
 3. PrimeNumber.java checks if an input int is a prime number 
 4. CooKieEditor.java edits phpBB cookies created in a mozilla  firefox browser 
 5. getMax.cpp is an implementation of the C++ template used to find the biggest object out of two input objects a and b
+6. virtualMethod.cpp is an imlementation of virtual methods in c++
