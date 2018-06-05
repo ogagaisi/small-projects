@@ -11,6 +11,6 @@ int main()
 {
 	int x = 10;
 	int y = 15;
-    cout<<"The greater number is "<<endl;
+    cout<<"The greater number is "<< getMax <int> (x,y); <<endl;
     return 0;
 }
