@@ -4,3 +4,4 @@ This repository is for small projects, usually the implementation of algorithms
 2. Palindrome.java checks if an input string is a palindrome.
 3. PrimeNumber.java checks if an input int is a prime number 
 4. CooKieEditor.java edits phpBB cookies created in a mozilla  firefox browser 
+5. getMax.cpp is an implementation of the C++ template used to find the biggest object out of two input objects a and b
